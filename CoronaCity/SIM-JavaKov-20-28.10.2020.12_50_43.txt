@@ -1,0 +1,10 @@
+01:19:606
+Stanovnici: 30
+Ambulante: 4
+Kuce: 10
+Punktovi:10
+Muski: 2
+Zenski: 4
+Djeca: 2
+Odrasli: 2
+Stari: 2

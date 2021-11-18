@@ -1,0 +1,10 @@
+00:30:663
+Stanovnici: 30
+Ambulante: 4
+Kuce: 10
+Punktovi:10
+Muski: 0
+Zenski: 0
+Djeca: 0
+Odrasli: 0
+Stari: 0
